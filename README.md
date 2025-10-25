@@ -12,7 +12,7 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
 - 🎓Currently learning HTML, Javascript and CSS for wed development
 
 ## What I use
-<p align="center">
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="64" height="64" style="vertical-align:middle;">
   </a>
@@ -24,6 +24,7 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
 
 ## My projects
 - Arduino-based 4 DOF robot arm
+  <img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />
   <p align="left">
   <a href="https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm">
     <img src="https://img.shields.io/badge/View%20Repository-%2300599C?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
