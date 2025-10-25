@@ -3,7 +3,7 @@
   <img width="636" height="357" alt="image" src="https://github.com/user-attachments/assets/97105d4e-dedb-42a2-8f0a-91dd55aa79dd" />
 </p>
 
-## About me 
+## Bio
 I'm a Malaysian high-school senior and I love embedded systems, c++ development projects and web designing
 
 ## What I do
@@ -22,6 +22,9 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
   </a>
 </p>
 
+## My projects
+- Arduino-based 4 DOF robot arm
+  
 <!--
 **ArifNaufalMNazri/ArifNaufalMNazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
