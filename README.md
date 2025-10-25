@@ -49,17 +49,23 @@ I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ developm
   </a>
   </p>
 
--The Marcus2
-
- ![Untitledvideo-MadewithClipchamp2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/31c90e4c-84c3-418b-b0d6-f223563e81db)
-   <p align="left">
-  <a href="https://github.com/ArifNaufalMNazri/Marcus2">
-     <img src="https://img.shields.io/badge/View%20Repository-%2300599C?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
-  </a>
-  </p>
-
 ## What I want to do
-I want to be able to learn more programming languages and create more projects so that I can create more advanced and more useful builds and programs for the world to use. I want to take these skills to my university so I can improve upon this base even more. 
+I want to be able to learn more programming languages and create more projects so that I can create more advanced and more useful builds and programs for the world to use. I want to take these skills to my university so I can improve upon this base even more. I want:
+- To learn:
+  <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60"/>
+</p>
+
+-To create 
+ <p align="left">
+ <img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/4380faef-8b6f-4a03-b3de-d13999a421fc" />
+ <img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/f247487c-c8ea-4431-9f95-f2cb4d787d3c" />
+ <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/475fd881-412d-42f3-bb27-52aa4105491e" />
 
 ## Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifnaufalmnazri@gmail.com)
