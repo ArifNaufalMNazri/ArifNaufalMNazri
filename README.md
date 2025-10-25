@@ -4,7 +4,7 @@
 </p>
 
 ## Bio
-I'm a Malaysian high-school senior and I love embedded systems, c++ development projects and web designing
+I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ development projects' and 'web designing'
 
 ## What I do
 - 🤖Build robotics projects with microcontrollers at the heart of them
@@ -58,6 +58,11 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
   </a>
   </p>
 
+## What I want to do
+I want to be able to learn more programming languages and create more projects so that I can create more advanced and more useful builds and programs for the world to use. I want to take these skills to my university so I can improve upon this base even more. 
+
+## Contact me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifnaufalmnazri@gmail.com)
  
  
 <!--
