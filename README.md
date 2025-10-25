@@ -11,6 +11,9 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
 - 💻Program in C++ to build a strong foundation in programming
 - 🎓Currently learning HTML, Javascript and CSS for wed development
 
+## Stats
+![ArifNaufalMNazri GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight)
+
 ## What I use
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noopener">
