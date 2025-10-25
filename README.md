@@ -3,7 +3,7 @@
   <img width="636" height="357" alt="image" src="https://github.com/user-attachments/assets/97105d4e-dedb-42a2-8f0a-91dd55aa79dd" />
 </p>
 
-## Bio
+## 🗒️Bio
 I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ development projects' and 'web designing'
 
 ## What I do
@@ -11,7 +11,7 @@ I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ developm
 - 💻Program in C++ to build a strong foundation in programming
 - 🎓Currently learning HTML, Javascript and CSS for wed development
 
-## Stats
+## 🖥️Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight" 
        alt="GitHub Stats" height="165"/>
@@ -31,7 +31,7 @@ I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ developm
 </p>
 
 ## My projects
-- Arduino-based 4 DOF robot arm
+- 🦾Arduino-based 4 DOF robot arm
   
   <img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />
   <p align="left">
@@ -40,7 +40,7 @@ I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ developm
   </a>
   </p>
 
--Conveyor belt with lego technic
+- 🏭Conveyor belt with lego technic
 
  ![ConveyorBelt-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893)
   <p align="left">
@@ -49,9 +49,9 @@ I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ developm
   </a>
   </p>
 
-## What I want to do
+## 🥅What I want to do
 I want to be able to learn more programming languages and create more projects so that I can create more advanced and more useful builds and programs for the world to use. I want to take these skills to my university so I can improve upon this base even more. I want:
-- To learn:
+- 📚To learn:
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
@@ -61,13 +61,13 @@ I want to be able to learn more programming languages and create more projects s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60"/>
 </p>
 
--To create 
+- 🛠️To create 
  <p align="left">
  <img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/4380faef-8b6f-4a03-b3de-d13999a421fc" />
  <img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/f247487c-c8ea-4431-9f95-f2cb4d787d3c" />
  <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/475fd881-412d-42f3-bb27-52aa4105491e" />
 
-## Contact me
+## 📱Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifnaufalmnazri@gmail.com)
  
  
