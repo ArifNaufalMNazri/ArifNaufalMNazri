@@ -12,7 +12,12 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
 - 🎓Currently learning HTML, Javascript and CSS for wed development
 
 ## Stats
-![ArifNaufalMNazri GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight" 
+       alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&theme=tokyonight" 
+       alt="Top Languages" height="165"/>
+</p>
 
 ## What I use
 <p align="left">
