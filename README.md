@@ -24,6 +24,7 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
 
 ## My projects
 - Arduino-based 4 DOF robot arm
+  
   <img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />
   <p align="left">
   <a href="https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm">
