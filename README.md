@@ -31,7 +31,16 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
     <img src="https://img.shields.io/badge/View%20Repository-%2300599C?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
   </a>
   </p>
-  
+
+-Conveyor belt with lego technic
+
+ ![ConveyorBelt-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893)
+  <p align="left">
+  <a href="https://github.com/ArifNaufalMNazri/ConveyorBelt">
+    <img src="https://img.shields.io/badge/View%20Repository-%2300599C?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
+  </p>
+ 
 <!--
 **ArifNaufalMNazri/ArifNaufalMNazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
