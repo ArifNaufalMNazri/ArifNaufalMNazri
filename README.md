@@ -24,6 +24,11 @@ I'm a Malaysian high-school senior and I love embedded systems, c++ development 
 
 ## My projects
 - Arduino-based 4 DOF robot arm
+  <p align="left">
+  <a href="https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm">
+    <img src="https://img.shields.io/badge/View%20Repository-%2300599C?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
+  </p>
   
 <!--
 **ArifNaufalMNazri/ArifNaufalMNazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
