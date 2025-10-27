@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img width="636" height="357" alt="image" src="https://github.com/user-attachments/assets/97105d4e-dedb-42a2-8f0a-91dd55aa79dd" />
+  <img width="636" height="359" alt="image" src="https://github.com/user-attachments/assets/da07f3c1-9ade-46c3-af5a-2fae792477a6" />
 </p>
+
 
 ## 🗒️Bio
 I'm a Malaysian high-school senior and I love exploring **embedded systems**, **C++ development** and **web design** to bring life to my ideas
