@@ -4,7 +4,7 @@
 </p>
 
 ## 🗒️Bio
-I'm a Malaysian high-school senior and I love 'embedded systems' , 'c++ development projects' and 'web designing'
+I'm a Malaysian high-school senior and I love exploring **embedded systems**, **C++ development** and **web design** to bring life to my ideas
 
 ## What I do
 - 🤖Build robotics projects with microcontrollers at the heart of them
