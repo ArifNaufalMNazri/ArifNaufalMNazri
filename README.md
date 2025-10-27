@@ -62,8 +62,11 @@ I want to be able to learn more programming languages and create more projects s
  <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/475fd881-412d-42f3-bb27-52aa4105491e" />
 
 ## 📱Let's talk
-I'm always excited to meet people who share the my passion. If you'd like to talk, or collaborate on future projects, contact me at my gamil: 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifnaufalmnazri@gmail.com)
+I'm always excited to meet people who share the my passion. If you'd like to talk, or collaborate on future projects, contact me at my gmail: 
+
+📧 [arifnaufal.mnazri@gmail.com](mailto:arifnaufal.mnazri@gmail.com)
+
+🌟Feel free to browse through my repositories and leave a star for your favourites
  
  
 <!--
