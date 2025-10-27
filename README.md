@@ -31,23 +31,15 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 </p>
 
 ## My projects
-- 🦾Arduino-based 4 DOF robot arm
-  
-  <img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />
-  <p align="left">
-  <a href="https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm">
-    <img src="https://img.shields.io/badge/View%20Repository-%2300599C?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
-  </a>
-  </p>
+<div align="center">
 
-- 🏭Conveyor belt with lego technic
+| 🤖 Arduino 4-DOF Robot Arm | 🧱 Conveyor Belt with LEGO Technic |
+|:--------------------------:|:---------------------------------:|
+| ![Robot Arm](https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5.png) | ![Conveyor Belt](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893) |
+| Built a 4 DOF remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Automated conveyor belt built with lego. <br> **Tech:** C++, Arduino |
+| [🔗 View Project]([https://github.com/yourrepo](https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm)) | [🔗 View Project]([https://github.com/yourrepo](https://github.com/ArifNaufalMNazri/ConveyorBelt)) |
 
- ![ConveyorBelt-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893)
-  <p align="left">
-  <a href="https://github.com/ArifNaufalMNazri/ConveyorBelt">
-     <img src="https://img.shields.io/badge/View%20Repository-%2300599C?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
-  </a>
-  </p>
+</div>
 
 ## 🥅What I want to do
 I want to be able to learn more programming languages and create more projects so that I can create more advanced and more useful builds and programs for the world to use. I want to take these skills to my university so I can improve upon this base even more. I want:
