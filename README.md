@@ -21,9 +21,7 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 
 ## What I use
 **Languages**: 
-  <a href="https://isocpp.org/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="64" height="64" style="vertical-align:middle;">
-  </a>
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Embedded Systems & Hardware:**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
