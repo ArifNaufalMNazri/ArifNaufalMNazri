@@ -35,7 +35,7 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 
 | 🤖 Arduino 4-DOF Robot Arm | 🧱 Conveyor Belt with LEGO Technic |
 |:--------------------------:|:---------------------------------:|
-| ![Robot Arm](https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5.png) | ![Conveyor Belt](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893) |
+| ![Robot Arm](<img width="234" height="158" alt="image" src="https://github.com/user-attachments/assets/ab77de34-ad8b-4bef-9504-b5652a9d2965" />) | ![Conveyor Belt](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893) |
 | Built a 4 DOF remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Automated conveyor belt built with lego. <br> **Tech:** C++, Arduino |
 | [🔗 View Project]([https://github.com/yourrepo](https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm)) | [🔗 View Project]([https://github.com/yourrepo](https://github.com/ArifNaufalMNazri/ConveyorBelt)) |
 
