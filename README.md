@@ -20,15 +20,19 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 </p>
 
 ## What I use
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="64" height="64" style="vertical-align:middle;">
-  </a>
-  &nbsp;&nbsp;
+**Languages**: 
   <a href="https://isocpp.org/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="64" height="64" style="vertical-align:middle;">
   </a>
-</p>
+
+**Embedded Systems & Hardware:**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Tools & IDEs:**  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## My projects
 <div align="center">
