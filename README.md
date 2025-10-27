@@ -35,9 +35,10 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 
 | 🤖 Arduino 4-DOF Robot Arm | 🧱 Conveyor Belt with LEGO Technic |
 |:--------------------------:|:---------------------------------:|
-|<img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />| ![ConveyorBelt](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893) <img src="https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893" width="413" height="413" alt="Cool GIF">|
+|<img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />| 
+<img src="https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893" width="413" height="413" alt="Cool GIF">|
 | Built a 4 DOF remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Automated conveyor belt built with lego. <br> **Tech:** C++, Arduino |
-| [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | [ConveyorBelt]([https://github.com/ConveyorBelt](https://github.com/ArifNaufalMNazri/ConveyorBelt)) |
+| [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | [ConveyorBelt](https://github.com/ArifNaufalMNazri/ConveyorBelt) |
 
 </div>
 
