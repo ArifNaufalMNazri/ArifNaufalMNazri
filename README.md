@@ -20,7 +20,7 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 </p>
 
 ## What I use
-**Languages**: 
+**Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Embedded Systems & Hardware:**  
