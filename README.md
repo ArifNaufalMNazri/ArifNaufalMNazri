@@ -21,7 +21,7 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 
 ## What I use
 **Languages**: 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Embedded Systems & Hardware:**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
