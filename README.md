@@ -6,7 +6,9 @@
 
 ## 🗒️Bio
 I'm a Malaysian high-school senior and I love exploring **embedded systems**, **C++ development** and **web design** to bring life to my ideas.💡
+
 I enjoy building projects that inlude either **hardware**, **code** or both - ranging from arduino robots and systems to programming experiments expand what I know. 🤩
+
 Currently, I'm diving deeper into **C++ development**, venturing into **Javascript**, **HTML** and  **CSS**, and learning how to create more complex and **mechanical** robot builds.🤖
 
 ## 🖥️Stats
