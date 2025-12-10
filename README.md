@@ -12,12 +12,9 @@ I enjoy building projects that inlude either **hardware**, **code** or both - ra
 Currently, I'm diving deeper into **C++ development** and learning how to create more complex and **mechanical** robot builds.🤖
 
 ## 🖥️Stats
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&count_private=true&theme=tokyonight" height="165">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&theme=tokyonight" 
-       alt="Top Languages" height="165">
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&count_private=true&theme=tokyonight" height="165">
 
 ## What I use
 **Languages:**  
@@ -31,7 +28,8 @@ Currently, I'm diving deeper into **C++ development** and learning how to create
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OpenGL Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/OpenGL_logo.svg)
+<img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/912a933c-1e79-43c4-aa73-94cf48dcef38" />
+
 
 ## My projects
 <div align="center">
