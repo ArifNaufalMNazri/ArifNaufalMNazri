@@ -9,15 +9,15 @@ I'm a Malaysian high-school senior and I love exploring **embedded systems**, **
 
 I enjoy building projects that inlude either **hardware**, **code** or both - ranging from arduino robots and systems to programming experiments expand what I know. 🤩
 
-Currently, I'm diving deeper into **C++ development**, venturing into **Javascript**, **HTML** and  **CSS**, and learning how to create more complex and **mechanical** robot builds.🤖
+Currently, I'm diving deeper into **C++ development** and learning how to create more complex and **mechanical** robot builds.🤖
 
 ## 🖥️Stats
-<p align="left">
+
   <img src="https://github-readme-stats.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" height="165"/>
+       alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&theme=tokyonight" 
-       alt="Top Languages" height="165"/>
-</p>
+       alt="Top Languages" height="165">
+
 
 ## What I use
 **Languages:**  
@@ -31,15 +31,16 @@ Currently, I'm diving deeper into **C++ development**, venturing into **Javascri
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OpenGL Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/OpenGL_logo.svg)
 
 ## My projects
 <div align="center">
 
-| 🤖 Arduino 4-DOF Robot Arm | 🧱 Conveyor Belt with LEGO Technic | 🧑‍🏫 Year 10 Registration System |
+| 🤖 Arduino 4-DOF Robot Arm | 🧲 Simple Magnet Sim | 🧑‍🏫 Year 10 Registration System |
 |:--------------------------:|:---------------------------------:|:---------------------------------:|
-|<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />|<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/88a8bebf-28e6-41b1-bd3c-bebbdbe28ffa" />| <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/43cb7def-b928-4bd9-95a2-3a71ef9d360f" /> |
-| Remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Automated conveyor belt built with lego. <br> **Tech:** C++, Arduino | System to register classmates' names. <br> **Tech:** C++|
-| **Link**: [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | **Link**: [ConveyorBelt](https://github.com/ArifNaufalMNazri/ConveyorBelt) | **Link**: [Year-10-Registration-System](https://github.com/ArifNaufalMNazri/Year-10-Registration-System/blob/main/README.md) |
+|<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />|<img src="https://github.com/user-attachments/assets/e32ee763-7ab8-4753-a522-9b94fac10e70" height=330 width=330>| <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/43cb7def-b928-4bd9-95a2-3a71ef9d360f" /> |
+| Remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Magnet Simulator. <br> **Tech:** C++, OpenGL | System to register classmates' names. <br> **Tech:** C++|
+| **Link**: [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | **Link**: [SimpleMagnetSim](https://github.com/ArifNaufalMNazri/SimpleMagnetSim/tree/main) | **Link**: [Year-10-Registration-System](https://github.com/ArifNaufalMNazri/Year-10-Registration-System/blob/main/README.md) |
 
 </div>
 
