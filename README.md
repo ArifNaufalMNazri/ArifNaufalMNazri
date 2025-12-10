@@ -11,11 +11,6 @@ I enjoy building projects that inlude either **hardware**, **code** or both - ra
 
 Currently, I'm diving deeper into **C++ development** and learning how to create more complex and **mechanical** robot builds.🤖
 
-## 🖥️Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&count_private=true&theme=tokyonight" height="165">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&count_private=true&theme=tokyonight" height="165">
-
 ## What I use
 **Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
