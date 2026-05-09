@@ -9,13 +9,16 @@ I'm a Malaysian high-school senior and I love exploring **embedded systems** and
 
 I enjoy building projects that inlude either **hardware**, **software** or both - ranging from arduino robots and systems to programming experiments to expand what I know. 🤩
 
-Currently, I'm diving deeper into **Python development** and learning how to create more complex and **mechanical** robot builds, as well as software like **Artificial Intelligence**.🤖
-
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifNaufalMNazri)](https://github.com/ArifNaufalMNazri/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifNaufalMNazri)](https://github.com/ArifNaufalMNazri/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArifNaufalMNazri&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ArifNaufalMNazri&theme=tokyonight&row=1)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArifNaufalMNazri&theme=tokyo-night)
 
 
 
@@ -29,15 +32,6 @@ Currently, I'm diving deeper into **Python development** and learning how to cre
 | **Link**: [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | **Link**: [SimpleMagnetSim](https://github.com/ArifNaufalMNazri/SimpleMagnetSim/tree/main) | **Link**: [Walker](https://github.com/ArifNaufalMNazri/Walker) |
 
 </div>
-
-## 🥅What I want to do
-I want to be able to learn more programming languages and create more projects so that I can create more advanced and more useful builds and programs for the world to use. I want to take these skills to university so I can improve upon this base even more. 
-- 📚To learn:
-  <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60"/>
-</p>
 
 ## 📱Let's talk
 I'm always excited to meet people who share the my passion. If you'd like to talk, or collaborate on future projects, contact me at my gmail: 
