@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="639" height="325" alt="image" src="https://github.com/user-attachments/assets/178bad44-2253-45fe-ad17-e368132a233d" />
+  <img width=100% height="500" alt="image" src="https://github.com/ArifNaufalMNazri/ArifNaufalMNazri.github.io/blob/main/images/Arif%20Naufal%20Engineering%20Portfolio%20(1).png" />
 </p>
 
 
@@ -25,11 +25,11 @@ I enjoy building projects that inlude either **hardware**, **software** or both 
 ## My projects
 <div align="center">
 
-| 🤖 Arduino 4-DOF Robot Arm | 🧲 Simple Magnet Sim | 🦿 Walker |
+| 🤖 Arduino 4-DOF Robot Arm | 🚓 Serial Sweeper-Car(Ca-R-oomba)| 🦿 Walker |
 |:--------------------------:|:---------------------------------:|:---------------------------------:|
-|<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />|<img src="https://github.com/user-attachments/assets/e32ee763-7ab8-4753-a522-9b94fac10e70" height=330 width=330>| <img width="330" height="330" alt="image" src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/robotImages/RobotWalkingVideo%20-%20Made%20with%20Clipchamp%20(1).gif" /> |
-| Remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Magnet Simulator. <br> **Tech:** C++, OpenGL | Experimental Walking Robot. <br> **Tech:** C++, Arduino|
-| **Link**: [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | **Link**: [SimpleMagnetSim](https://github.com/ArifNaufalMNazri/SimpleMagnetSim/tree/main) | **Link**: [Walker](https://github.com/ArifNaufalMNazri/Walker) |
+|<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />|<img src="https://github.com/ArifNaufalMNazri/Flet-Arduino-Sweeper-Car--Ca-R-oomba/blob/main/images/sweeper-top-view.gif" height=330 width=250>| <img width="330" height="330" alt="image" src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/robotImages/RobotWalkingVideo%20-%20Made%20with%20Clipchamp%20(1).gif" /> |
+| Remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Ca-R-oomba. <br> **Tech:** C++, Python, Flet | Experimental Walking Robot. <br> **Tech:** C++, Arduino|
+| **Link**: [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | **Link**: [Flet Arduino Sweeper Car--(Ca-R-oomba)](https://github.com/ArifNaufalMNazri/Flet-Arduino-Sweeper-Car--Ca-R-oomba/tree/main) | **Link**: [Walker](https://github.com/ArifNaufalMNazri/Walker) |
 
 </div>
 
