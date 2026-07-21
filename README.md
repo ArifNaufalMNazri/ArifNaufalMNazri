@@ -25,11 +25,11 @@ I enjoy building projects that inlude either **hardware**, **software** or both 
 ## My projects
 <div align="center">
 
-| 🤖 Arduino 4-DOF Robot Arm | 🚓 Serial Sweeper-Car(Ca-R-oomba)| 🦿 Walker |
+| 🤖 Prototype AI: N From Murder Drones | 🚓 Serial Sweeper-Car(Ca-R-oomba)| 🦿 Walker |
 |:--------------------------:|:---------------------------------:|:---------------------------------:|
-|<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />|<img src="https://github.com/ArifNaufalMNazri/Flet-Arduino-Sweeper-Car--Ca-R-oomba/blob/main/images/sweeper-top-view.gif" height=330 width=250>| <img width="330" height="330" alt="image" src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/robotImages/RobotWalkingVideo%20-%20Made%20with%20Clipchamp%20(1).gif" /> |
-| Remote-controlled Arduino arm. <br> **Tech:** C++, Arduino | Ca-R-oomba. <br> **Tech:** C++, Python, Flet | Experimental Walking Robot. <br> **Tech:** C++, Arduino|
-| **Link**: [Remote-Controlled-Arduino-Arm](https://github.com/ArifNaufalMNAzri/Remote-Controlled-Arduino-Arm) | **Link**: [Flet Arduino Sweeper Car--(Ca-R-oomba)](https://github.com/ArifNaufalMNazri/Flet-Arduino-Sweeper-Car--Ca-R-oomba/tree/main) | **Link**: [Walker](https://github.com/ArifNaufalMNazri/Walker) |
+|<img width= "500" height="330" alt="image" src="https://github.com/ArifNaufalMNazri/Prototype-AI-Companion-based-on-N-from-Murder-Drones/blob/main/Media/FinalNGIF.gif" />|<img src="https://github.com/ArifNaufalMNazri/Flet-Arduino-Sweeper-Car--Ca-R-oomba/blob/main/images/sweeper-top-view.gif" height=330 width=250>| <img width="330" height="330" alt="image" src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/robotImages/RobotWalkingVideo%20-%20Made%20with%20Clipchamp%20(1).gif" /> |
+| Responsive AI agent. <br> **Tech:** Python | Ca-R-oomba. <br> **Tech:** C++, Python, Flet | Experimental Walking Robot. <br> **Tech:** C++, Arduino|
+| **Link**: [Prototype AI: N from MuderDrones](https://github.com/ArifNaufalMNazri/Prototype-AI-Companion-based-on-N-from-Murder-Drones/tree/main) | **Link**: [Flet Arduino Sweeper Car--(Ca-R-oomba)](https://github.com/ArifNaufalMNazri/Flet-Arduino-Sweeper-Car--Ca-R-oomba/tree/main) | **Link**: [Walker](https://github.com/ArifNaufalMNazri/Walker) |
 
 </div>
 
