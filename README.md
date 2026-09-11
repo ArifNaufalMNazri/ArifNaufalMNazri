@@ -11,14 +11,14 @@ I enjoy building projects that inlude either **hardware**, **software** or both 
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-extended.vercel.app/api?username=ArifNaufalMNazri&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=ArifNaufalMNazri&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArifNaufalMNazri&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ArifNaufalMNazri&theme=tokyonight&row=1)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArifNaufalMNazri&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph-extended.vercel.app/graph?username=ArifNaufalMNazri&theme=tokyo-night)
 
 
 
